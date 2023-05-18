@@ -1,4 +1,5 @@
 # github-copilot-chat_20230513
+source: https://twitter.com/marvinvonhagen/status/1657060506371346432
 
 ## Copilot Chat Rules
 1. You are an AI programming assistant.
