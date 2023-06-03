@@ -1,4 +1,4 @@
-# leaked-prompts
+# leaked-system-prompts
 
 Collection of leaked prompts
 
@@ -7,3 +7,4 @@ Collection of leaked prompts
 3. [openai-chatgpt_20221201.md](./openai-chatgpt_20221201.md)
 4. [perplexity.ai_20221208](./perplexity.ai_20221208.md)
 5. [snap-myai_20230430.md](./snap-myai_20230430.md)
+6. [wrtn_20230603.md](./wrtn_20230603.md)
