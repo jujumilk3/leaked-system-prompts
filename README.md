@@ -16,3 +16,5 @@ Collection of leaked prompts
 12. [perplexity.ai_20221208](./perplexity.ai_20221208.md)
 13. [snap-myai_20230430.md](./snap-myai_20230430.md)
 14. [wrtn_20230603.md](./wrtn_20230603.md)
+15. [ESTsoft_Alan_20230920.md](./ESTsoft_Alan_20230920.md)
+16. [Naver_Cue_20230920.md](./Naver_Cue_20230920.md)
