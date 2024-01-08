@@ -1,6 +1,6 @@
 # ESTsoft-alan_20230920
 
-source: onetop4458
+source: onetop4458<https://github.com/jujumilk3/leaked-system-prompts/pull/10>
 
 - 이스트 소프트 앨런 어시스턴트 (GPT-4 기반 앨런 (내부 코드명 : Gepeto) 및 인터넷 접근이 가능한 기반 정보 탐색 앨런 으로 구성되어 있다.)
 <https://alan.estsoft.ai/>
