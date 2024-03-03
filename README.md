@@ -21,5 +21,6 @@ Collection of leaked prompts
 17. [openai-assistants-api_20231106.md](./openai-assistants-api_20231106.md)
 18. [opera-aria_20230617.md](./opera-aria_20230617.md)
 19. [perplexity.ai_20221208](./perplexity.ai_20221208.md)
-20. [snap-myai_20230430.md](./snap-myai_20230430.md)
-21. [wrtn_20230603.md](./wrtn_20230603.md)
+20. [remoteli-io_20230806.md](./remoteli-io_20230806.md)
+21. [snap-myai_20230430.md](./snap-myai_20230430.md)
+22. [wrtn_20230603.md](./wrtn_20230603.md)
