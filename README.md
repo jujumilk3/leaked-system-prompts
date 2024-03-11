@@ -29,3 +29,4 @@ Collection of leaked prompts
 25. [remoteli-io_20230806.md](./remoteli-io_20230806.md)
 26. [snap-myai_20230430.md](./snap-myai_20230430.md)
 27. [wrtn_20230603.md](./wrtn_20230603.md)
+28. [xAI-grok_20240307.md](./xAI-grok_20240307.md)
