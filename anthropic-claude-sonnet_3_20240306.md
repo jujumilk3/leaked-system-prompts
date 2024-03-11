@@ -1,4 +1,4 @@
-# Anthropic-Claude-Sonnet_20240306
+# Anthropic-Claude-Sonnet_3_20240306
 
 source: <https://twitter.com/schroneko/status/1765372238503760324>
 
