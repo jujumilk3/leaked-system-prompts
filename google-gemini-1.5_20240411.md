@@ -1,4 +1,4 @@
-# Google-Gemini_1.5-20240411
+# google-gemini-1.5-20240411
 
 sources:
 
