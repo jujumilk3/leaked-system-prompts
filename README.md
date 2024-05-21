@@ -25,6 +25,7 @@ Collection of leaked prompts
 21. [openai-chatgpt_20221201.md](./openai-chatgpt_20221201.md)
 22. [openai-chatgpt-ios_20230614.md](./openai-chatgpt-ios_20230614.md)
 23. [openai-chatgpt4-android_20240207.md](./openai-chatgpt4-android_20240207.md)
+23. [openai-chatgpt4o_20240520.md](openai-chatgpt4o_20240520.md)
 24. [openai-dall-e-3_20231007-1.md](./openai-dall-e-3_20231007-1.md)
 25. [openai-dall-e-3_20231007-2.md](./openai-dall-e-3_20231007-2.md)
 26. [openai-assistants-api_20231106.md](./openai-assistants-api_20231106.md)
