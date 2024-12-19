@@ -56,3 +56,4 @@ Collection of leaked prompts
 52. [wrtn-gpt4_20240215.md](./wrtn-gpt4_20240215.md)
 53. [xAI-grok_20240307.md](./xAI-grok_20240307.md)
 54. [xAI-grok_20241003.md](./xAI-grok_20241003.md)
+55. [xAI-grok2_20241218.md](./xAI-grok2_20241218.md)
