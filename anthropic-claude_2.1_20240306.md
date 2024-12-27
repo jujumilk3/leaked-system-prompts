@@ -1,4 +1,4 @@
-# Anthropic-Claude-2.1_20240306
+# anthropic-claude_2.1_20240306.md
 
 source: <https://twitter.com/schroneko/status/1765372238503760324>
 

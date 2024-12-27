@@ -1,4 +1,4 @@
-# Anthropic-Claude-3-Opus_20240712
+# anthropic-claude-3-opus_20240712
 
 source: <https://docs.anthropic.com/en/release-notes/system-prompts#july-12th-2024>
 
