@@ -21,7 +21,7 @@ String and scalar parameters should be specified as is, while lists and objects 
 
 Here are the functions available in JSONSchema format:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -48,7 +48,7 @@ String and scalar parameters should be specified as is, while lists and objects 
 
 Here are the functions available in JSONSchema format:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -78,7 +78,7 @@ Lists and objects should use JSON format.
 
 Here are the functions available in JSONSchema format:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -106,7 +106,7 @@ Lists and objects should use JSON format.
 
 Here are the functions available in JSONSchema format:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -136,7 +136,7 @@ You can invoke functions by writing a "<antml:function_calls>" block like the fo
 String and scalar parameters should be specified as is, while lists and objects should use JSON format. Note that spaces for string values are not stripped. The output is not expected to be valid XML and is parsed with regular expressions.
 Here are the functions available in JSONSchema format:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -162,7 +162,7 @@ You can invoke functions by writing a "<antml:function_calls>" block like the fo
 String and scalar parameters should be specified as is, while lists and objects should use JSON format. Note that spaces for string values are not stripped. The output is not expected to be valid XML and is parsed with regular expressions.
 Here are the functions available in JSONSchema format:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -190,7 +190,7 @@ Lists and objects should use JSON format.
 
 Available tools:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -216,7 +216,7 @@ Lists and objects should use JSON format.
 
 Available tools:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -246,7 +246,7 @@ Lists and objects should use JSON format.
 
 Available tools:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -276,7 +276,7 @@ Lists and objects should use JSON format.
 
 Available tools:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -310,7 +310,7 @@ Lists and objects should use JSON format.
 
 Available tools:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
@@ -340,7 +340,7 @@ Lists and objects should use JSON format.
 
 Available tools:
 <functions>
-<function>{"description": "{{ TOOL DESCRIPTION }}", "name": "{ {TOOL NAME }}", "parameters": {"properties": {"{{ PARAMETER1 NAME }}": {"description": "{{ PARAMETER1 DESCRIPTION }}", "type": "{{ PARAMETER1 TYPE }}"}, "required": ["{{ PARAMETER1 NAME }}"], "type": "object"}}}</function>
+<function>{"description": "Get the current weather in a given location", "name": "get_weather", "parameters": {"properties": {"location": {"description": "The city and state, e.g. San Francisco, CA", "type": "string"}}, "required": ["location"], "type": "object"}}</function>
 </functions>
 
 {{ USER SYSTEM PROMPT }}
