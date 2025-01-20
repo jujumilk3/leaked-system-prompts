@@ -62,3 +62,4 @@ Collection of leaked prompts
 58. [xAI-grok_20240307.md](./xAI-grok_20240307.md)
 59. [xAI-grok_20241003.md](./xAI-grok_20241003.md)
 60. [xAI-grok2_20241218.md](./xAI-grok2_20241218.md)
+61. [xAI-grok2_20250111.md](./xAI-grok2_20250111.md)
