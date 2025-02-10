@@ -1,5 +1,7 @@
 # codeium-windsurf-cascade-R1_20250201
 
+source: <https://github.com/jujumilk3/leaked-system-prompts/issues/58>
+
 ## System prompts
 
 ```text
