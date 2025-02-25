@@ -1,4 +1,4 @@
-# anthropic-claude-3.7-sonnet_20250224.md
+# anthropic-claude-3.7-sonnet_20250224
 
 source: <https://x.com/elder_plinius/status/1894173986151358717>
 

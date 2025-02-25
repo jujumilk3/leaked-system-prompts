@@ -1,4 +1,4 @@
-# microsoft-copilot_20241219.md
+# microsoft-copilot_20241219
 
 source: <https://www.reddit.com/r/ArtificialInteligence/comments/1hhyt1y/i_extracted_microsoft_copilots_system/>
 

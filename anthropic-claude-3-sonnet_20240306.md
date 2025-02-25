@@ -1,4 +1,4 @@
-# anthropic-claude-3-sonnet_20240306.md
+# anthropic-claude-3-sonnet_20240306
 
 source: <https://twitter.com/schroneko/status/1765372238503760324>
 

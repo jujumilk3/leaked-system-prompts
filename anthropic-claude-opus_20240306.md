@@ -1,4 +1,4 @@
-# anthropic-claude-opus_20240306.md
+# anthropic-claude-opus_20240306
 
 source: <https://twitter.com/AmandaAskell/status/1765207842993434880>
 

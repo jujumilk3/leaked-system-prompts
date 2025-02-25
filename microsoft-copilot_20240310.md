@@ -1,4 +1,4 @@
-# microsoft-copilot_20240310.md
+# microsoft-copilot_20240310
 
 source: <https://old.reddit.com/r/bing/comments/1bapeh7/copilots_initial_prompt_as_of_march_2024/>
 
