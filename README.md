@@ -12,7 +12,7 @@ Collection of leaked prompts
 8. [anthropic-claude-3.5-sonnet_20240909.md](./anthropic-claude-3.5-sonnet_20240909.md)
 9. [anthropic-claude-3.5-sonnet_20241022.md](./anthropic-claude-3.5-sonnet_20241022.md)
 10. [anthropic-claude-3.5-sonnet_20241122.md](./anthropic-claude-3.5-sonnet_20241122.md)
-11. [anthropic-claude-3.5-sonnet_20250224.md](./anthropic-claude-3.5-sonnet_20250224.md)
+11. [anthropic-claude-3.7-sonnet_20250224.md](./anthropic-claude-3.7-sonnet_20250224.md)
 12. [anthropic-claude-api-tool-use_20250119.md](./anthropic-claude-api-tool-use_20250119.md)
 13. [anthropic-claude-opus_20240306.md](./anthropic-claude-opus_20240306.md)
 14. [bolt.new_20241009.md](./bolt.new_20241009.md)
