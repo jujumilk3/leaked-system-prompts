@@ -36,7 +36,7 @@ Collection of leaked prompts
 32. [github-copilot-chat_20230513.md](./github-copilot-chat_20230513.md)
 33. [github-copilot-chat_20240930.md](./github-copilot-chat_20240930.md)
 34. [google-gemini-1.5_20240411.md](./google-gemini-1.5_20240411.md)
-35. [manus_20250310.md](./manus_20250310.md)
+35. [manus_20250309.md](./manus_20250309.md)
 36. [microsoft-bing-chat_20230209.md](./microsoft-bing-chat_20230209.md)
 37. [microsoft-copilot_20240310.md](./microsoft-copilot_20240310.md)
 38. [microsoft-copilot_20241219.md](./microsoft-copilot_20241219.md)
