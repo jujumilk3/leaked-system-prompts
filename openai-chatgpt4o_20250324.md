@@ -1,6 +1,6 @@
 # openai-chatgpt4o_20250324
 
-source: <https://github.com/jujumilk3/leaked-system-prompts/pull/35>
+source: <https://github.com/jujumilk3/leaked-system-prompts/pull/71>
 
 ## Q(user)
 
