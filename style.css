@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    display: flex; /* Use flexbox for layout */
+    height: 100vh; /* Full viewport height */
+}
+
+#file-list {
+    width: 25%; /* Adjust width as needed */
+    height: 100%;
+    overflow-y: auto; /* Scrollable if content overflows */
+    padding: 15px;
+    border-right: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+#file-list ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#file-list li a {
+    display: block;
+    padding: 8px 10px;
+    text-decoration: none;
+    color: #333;
+    border-bottom: 1px solid #eee;
+}
+
+#file-list li a:hover {
+    background-color: #e9e9e9;
+}
+
+#content-display {
+    width: 75%; /* Adjust width as needed */
+    height: 100%;
+    overflow-y: auto; /* Scrollable if content overflows */
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* Basic styling for headings and other elements if needed */
+#content-display h1,
+#content-display h2,
+#content-display h3 {
+    color: #333;
+}
+
+#content-display pre { /* Style for code blocks */
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto; /* Scroll long code lines */
+}
