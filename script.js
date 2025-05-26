@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     sortedFilenames.forEach(filename => {
         const li = document.createElement('li');
-        li.textContent = filename;
+        li.textContent = filename.split('/').pop();
         li.setAttribute('data-filename', filename);
         li.addEventListener('click', () => {
             // Remove active class from other items
