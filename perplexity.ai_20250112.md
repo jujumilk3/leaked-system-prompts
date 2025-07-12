@@ -1,4 +1,4 @@
-# perplexity.ai_20240607
+# perplexity.ai_20250112
 
 source: <https://medium.com/the-generator/prompt-hacking-perplexity-ai-system-instructions-7aa6ee923060>
 

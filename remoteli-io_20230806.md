@@ -1,4 +1,4 @@
-# remoteli-io_20230806.md
+# remoteli-io_20230806
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/issues/7>
 
