@@ -1,6 +1,6 @@
 # anthropic-claude-4-opus_20250522
 
-source: <https://docs.anthropic.com/en/release-notes/system-prompts>
+source: <https://docs.anthropic.com/en/release-notes/system-prompts#may-22nd-2025>
 
 ## System Prompt
 
