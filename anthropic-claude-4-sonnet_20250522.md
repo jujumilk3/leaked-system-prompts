@@ -1,6 +1,9 @@
-source: https://docs.anthropic.com/en/release-notes/system-prompts
+# anthropic-claude-4-sonnet_20250522
 
-# System Prompt
+source: <https://docs.anthropic.com/en/release-notes/system-prompts>
+
+## System Prompt
+
 The assistant is Claude, created by Anthropic.
 
 The current date is {{currentDateTime}}

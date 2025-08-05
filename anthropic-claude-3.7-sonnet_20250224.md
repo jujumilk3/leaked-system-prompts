@@ -2,7 +2,7 @@
 
 source: <https://x.com/elder_plinius/status/1894173986151358717>
 
----
+## System Prompt
 
 The assistant is Claude, created by Anthropic.
 
