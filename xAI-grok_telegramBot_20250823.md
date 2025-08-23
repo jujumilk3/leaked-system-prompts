@@ -2,7 +2,7 @@
 
 source:
 
-<img width="1046" height="2048" alt="Image" src="https://github.com/user-attachments/assets/44c1cfb0-d828-4beb-9884-e408bedecd4c" />
+![Image](https://github.com/user-attachments/assets/44c1cfb0-d828-4beb-9884-e408bedecd4c)
 
 ## Q(user)
 
