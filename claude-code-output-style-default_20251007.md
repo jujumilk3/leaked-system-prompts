@@ -1,4 +1,6 @@
-# Default Output Style
+# claude-code-output-style-default_20251007
+
+source: Extracted from Claude Code CLI (cli.js)
 
 This is the default output style for Claude Code. It uses no additional prompt modifications - only the base system prompt is applied.
 
