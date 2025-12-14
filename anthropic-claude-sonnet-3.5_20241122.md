@@ -1,4 +1,4 @@
-# anthropic-claude-3.5-sonnet_20241122
+# anthropic-claude-sonnet-3.5_20241122
 
 source: <https://docs.anthropic.com/en/release-notes/system-prompts#nov-22nd-2024>
 

@@ -1,4 +1,4 @@
-# anthropic-claude-3-sonnet_20240311
+# anthropic-claude-sonnet-3_20240311
 
 source: <https://github.com/jujumilk3>
 

@@ -1,4 +1,4 @@
-# anthropic-claude-4.5-haiku_20251119
+# anthropic-claude-haiku-4.5_20251119
 
 source: <https://platform.claude.com/docs/en/release-notes/system-prompts#claude-haiku-4-5>
 

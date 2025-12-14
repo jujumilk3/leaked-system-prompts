@@ -1,4 +1,4 @@
-# anthropic-claude-4-sonnet_20250805
+# anthropic-claude-sonnet-4_20250805
 
 source: <https://platform.claude.com/docs/en/release-notes/system-prompts#claude-sonnet-4>
 

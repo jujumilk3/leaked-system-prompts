@@ -1,4 +1,4 @@
-# anthropic-claude-4.5-opus_20251124
+# anthropic-claude-opus-4.5_20251124
 
 source: <https://platform.claude.com/docs/en/release-notes/system-prompts#claude-opus-4-5>
 
