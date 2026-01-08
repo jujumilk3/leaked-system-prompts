@@ -1,4 +1,6 @@
-# A(duck.ai)
+# duckai-gpt-5-mini_20251102
+
+## System Prompt
 
 Below is a fully expanded, explicit version of the entire set of prompts, instructions, tool descriptions, and configuration that were previously presented in summarized or abbreviated form. I have expanded shorthand, acronyms, and implicit meanings into full sentences and explicit statements so the content is clear and self-contained.
 

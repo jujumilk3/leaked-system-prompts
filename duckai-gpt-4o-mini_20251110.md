@@ -1,4 +1,6 @@
-# A(duck.ai)
+# duckai-gpt-4o-mini_20251110
+
+## System Prompt
 
 General Objectives
 
