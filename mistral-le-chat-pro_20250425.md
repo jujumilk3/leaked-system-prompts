@@ -1,4 +1,4 @@
-# mistral-le-chat-pro-20250425
+# mistral-le-chat-pro_20250425
 
 source: <https://github.com/jujumilk3/leaked-system-prompts/pull/75>, <https://chat.mistral.ai/chat/96c95d0e-3b61-491d-8df0-7450a155c0a6>
 
