@@ -7,7 +7,7 @@ It is contained in the HTTP GET response to: https://api.anthropic.com/api/boots
 The system prompt components appear to be contextual based on what page the user is on and what actions are requested.
 
 
-obtained 2026-03-28
+Obtained 2026-03-28.
 
 ---
 
