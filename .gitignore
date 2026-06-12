@@ -13,3 +13,5 @@
 ./vscode/*
 .history/
 *.code-workspace
+
+tmp/
